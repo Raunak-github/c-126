@@ -1,0 +1,21 @@
+#song_name
+{
+    width: 10%;
+    font-size: 30px;
+}
+.heading
+{
+    font-size: 40px;
+    margin: 0px;
+    width: 100%;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#note
+{
+    font-size: 25px;
+    color: cadetblue;
+}
